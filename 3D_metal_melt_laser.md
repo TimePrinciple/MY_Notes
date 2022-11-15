@@ -2,6 +2,7 @@
 
 ---
 
+- https://www.bilibili.com/video/BV1dA4y1S7Cj?t=0.6
 - 思路：
   - 首先利用液化工具对字母进行边缘拖拽出一些融化纹路
      ![](./pictures_of_PS/character_A.png)

@@ -15,6 +15,5 @@
     效果如下：
     
     ![](./pictures_of_PS/snake_of_text.png)
-    
 
             
