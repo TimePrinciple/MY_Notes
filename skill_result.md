@@ -15,10 +15,14 @@
 
 - 霓虹灯光：treat_light.md
   
-  <img src="./pictures_of_PS/Linux_light.png" title="" alt="" width="338">
+  <img title="" src="./pictures_of_PS/Linux_light.png" alt="" width="345">
 
 - 抠图技巧及要素：Matting_skill.md
 
 - 文字光圈：treat_light
   
   <img title="" src="./pictures_of_PS/text_circle.png" alt="" width="351">
+
+- 幻想发光效果
+  
+  <img title="" src="./pictures_of_PS/butterfly_me.png" alt="" width="357">
