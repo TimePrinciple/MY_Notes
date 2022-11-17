@@ -23,6 +23,10 @@
   
   <img title="" src="./pictures_of_PS/text_circle.png" alt="" width="351">
 
-- 幻想发光效果
+- 幻想发光效果：butterfly_me
   
   <img title="" src="./pictures_of_PS/butterfly_me.png" alt="" width="357">
+
+- 齿轮与燃烧的linux
+  
+  <img title="" src="./pictures_of_PS/linux_clock.png" alt="" width="351">
